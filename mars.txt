@@ -1,3 +1,6 @@
 cold and dry but every things is my favorite color
+<<<<<<< HEAD
 The two moons may be a problem for wolfman.
 But the Mummy will appreciate he lack of humidity
+=======
+>>>>>>> parent of 3fe0076... Add concerns about effects pf moons on wolfman.
